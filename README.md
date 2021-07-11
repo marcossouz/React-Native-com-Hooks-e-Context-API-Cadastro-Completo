@@ -8,7 +8,8 @@ React Native com Hooks e Context API - Cadastro Completo!
 - [x] Introdução
 - [x] Configuração do ambiente
 - [ ] Aplicação
-  - [ ] Navegação Stack #01
+  - [x] Criar Projeto
+  - [x] Navegação Stack #01
   - [ ] Navegação Stack #02
   - [ ] Criando arquivos de usuários
   - [ ] Lista de usuários #01
@@ -22,3 +23,11 @@ React Native com Hooks e Context API - Cadastro Completo!
   - [ ] useReducer #03
 - [ ] Fundamentos de React Native
 - [ ] Conclusão do curso
+
+
+# Referências
+
+- https://reactnative.dev/
+- https://reactnavigation.org/
+- https://reactnativeelements.com/
+
