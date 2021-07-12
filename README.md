@@ -24,6 +24,10 @@ React Native com Hooks e Context API - Cadastro Completo!
 - [ ] Fundamentos de React Native
 - [ ] Conclusão do curso
 
+# Telas
+
+![](https://i.imgur.com/VppGRO4.png)
+
 
 # Referências
 
