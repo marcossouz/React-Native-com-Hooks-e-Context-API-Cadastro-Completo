@@ -11,8 +11,8 @@ React Native com Hooks e Context API - Cadastro Completo!
   - [x] Criar Projeto
   - [x] Navegação Stack #01
   - [x] Navegação Stack #02
-  - [ ] Criando arquivos de usuários
-  - [ ] Lista de usuários #01
+  - [x] Criando arquivos de usuários
+  - [x] Lista de usuários #01
   - [ ] Lista de usuários #02
   - [ ] Rotas e Parâmetros
   - [ ] Formulário de usuários
@@ -30,4 +30,7 @@ React Native com Hooks e Context API - Cadastro Completo!
 - https://reactnative.dev/
 - https://reactnavigation.org/
 - https://reactnativeelements.com/
+
+- https://pixabay.com/pt/
+
 
